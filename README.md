@@ -1,4 +1,4 @@
-![00242FDA](https://github.com/hhz0328/urx5_control/assets/110613658/cc30dc1f-3d16-4db9-a3a8-e5b5add08833)# urx5_control
+# urx5_control
 使用python，对UR5机器人进行控制，实现了自定义工作空间下的自定义步长扫描
 
 ## 使用的package
