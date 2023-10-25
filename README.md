@@ -11,7 +11,7 @@
 3.tqdm
 
 ## 遇到的Bug
-（1）pip install urx，由于pip维护问题，导致urx版本过低。导致movel函数，使用异常，发生报错。
+（1）pip install urx，由于pip维护过于久远，导致由pip安装的urx版本过低。导致movel函数，使用异常，发生报错。
 
 解决方法：使用pip uninstall卸载原先的urx。直接到github下载最新版python-urx的zip源码，放到工作空间下。
 
