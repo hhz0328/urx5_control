@@ -2,7 +2,7 @@
 使用python，对UR5机器人进行控制，实现了自定义工作空间下的自定义步长扫描
 
 
-## 使用的package
+## package
 1.python-urx
 
 链接：https://github.com/SintefManufacturing/python-urx
@@ -10,6 +10,9 @@
 2.numpy
 
 3.tqdm
+
+## usage
+运行test04.py
 
 ## 遇到的Bug
 （1）pip install urx，由于pip维护过于久远，导致由pip安装的urx版本过低。导致movel函数，使用异常，发生报错。
