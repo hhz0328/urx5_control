@@ -3,6 +3,8 @@
 
 文件夹idea，使用时改为.idea
 
+![](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/blob/foxy/ur_robot_driver/doc/initial_setup_images/e-Series.jpg)
+
 ## 软件包更新时间
 2023.10.25
 ## package
