@@ -1,7 +1,6 @@
 # urx5_control
 使用python，对UR5机器人进行控制，实现了自定义工作空间下的自定义步长扫描
 
-文件夹idea，使用时改为.idea
 
 ![](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/blob/foxy/ur_robot_driver/doc/initial_setup_images/e-Series.jpg)
 
